@@ -1,3 +1,5 @@
+// PRACTICA ENTREGADA  -  VALDEZ MEZA KEVIN OSMAR
+
 #define F_CPU 16000000UL
 #include <avr/io.h>
 #include <stdlib.h>
